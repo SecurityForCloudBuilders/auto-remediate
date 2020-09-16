@@ -130,7 +130,7 @@ module.exports = {
     },
 
     "AutoRemediateIAM-038": {
-      enabled: false
+      enabled: true
     },
 
     "AutoRemediateKinesis-001": {
